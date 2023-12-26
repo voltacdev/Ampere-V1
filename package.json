@@ -2,8 +2,8 @@
     "name": "music-bot",
     "main": "main.js",
     "author": "Voltac",
-    "version": "8.0.0",
-    "repository": "https://github.com/ZerioDev/Music-bot.git",
+    "version": "1.0.0",
+    "repository": "https://github.com/voltacdev/Ampere-V1",
     "description": "Discord music bot.",
     "scripts": {
         "start": "node main.js"
