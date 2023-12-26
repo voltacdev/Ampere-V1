@@ -1,0 +1,12 @@
+# Node
+.vscode/
+node_modules/
+commands/
+events/Discord/
+src/buttons/
+package-lock.json
+yarn.lock
+LICENSE
+config.js
+README.md
+Ampere-V1.zip
