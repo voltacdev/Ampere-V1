@@ -2,7 +2,7 @@
     "name": "music-bot",
     "main": "main.js",
     "author": "Voltac",
-    "version": "8.0.0",
+    "version": "1.0.2",
     "repository": "https://github.com/ZerioDev/Music-bot.git",
     "description": "Discord music bot.",
     "scripts": {
