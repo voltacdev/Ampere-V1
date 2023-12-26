@@ -3,7 +3,7 @@
     "main": "main.js",
     "author": "Voltac",
     "version": "1.0.2",
-    "repository": "https://github.com/ZerioDev/Music-bot.git",
+    "repository": "https://github.com/voltacdev/Ampere-V1",
     "description": "Discord music bot.",
     "scripts": {
         "start": "node main.js"

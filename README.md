@@ -1,5 +1,8 @@
 # Voltz - Ampere ⚡
-<img src="https://cdn.discordapp.com/avatars/1073529593371308052/29120dcc29d0bb4065f5a1c194deb2c3.png?size=512" width="200" alt="Voltz - Ampere ⚡ - Music Bot">
+<h1 align="center">
+  <br>
+  <a href="http://www.voltac.dev/voltz"><img src="https://cdn.discordapp.com/avatars/1073529593371308052/29120dcc29d0bb4065f5a1c194deb2c3.png?size=512" alt="Markdownify" width="200"></a>
+</h1>
 
 
 <p align="center">
