@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://github.com/voltacdev/Ampere-V1" alt="Github repo vesion">
-        <img src="https://img.shields.io/github/package-json/v/voltacdev/Ampere-V1/main?logo=discord&color=%2337eb34" /></a>
+        <img src="https://img.shields.io/github/package-json/v/voltacdev/Ampere-V1/main?logo=javascript&color=%2337eb34" /></a>
     <a href="https://discord.gg/jp8pGTGWry" alt="Discord Chat">
         <img src="https://img.shields.io/discord/590715124650868776?logo=discord" /></a>
 </p>
