@@ -27,5 +27,4 @@ Voltz dapat memainkan playlist yang ada dan juga mendukung pemutaran langsung da
 
 ## Preview
 
-# Player Musik
 ![Preview](https://github.com/bagaspwibisono/Ampere-V1/blob/main/src/img/preview.PNG?raw=true)
