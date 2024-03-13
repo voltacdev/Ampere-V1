@@ -16,7 +16,6 @@
 
 
 
-
 Voltz adalah bot Discord yang powerful dan mudah digunakan, dirancang khusus untuk memberikan pengalaman mendengarkan musik yang menyenangkan di server Discord Anda. Dengan fitur-fitur canggih dan antarmuka yang ramah pengguna, Voltz memastikan bahwa setiap anggota server dapat menikmati beragam konten musik tanpa harus meninggalkan platform Discord.
 
 * **Pemutaran Musik Berkualitas Tinggi**<br />Voltz mendukung pemutaran musik berkualitas tinggi dari berbagai platform, memastikan suara yang jernih dan pengalaman mendengarkan yang menyenangkan.
@@ -24,3 +23,7 @@ Voltz adalah bot Discord yang powerful dan mudah digunakan, dirancang khusus unt
 * **Kontrol Playback dengan tombol:**<br /> Dengan perintah menggunakan tombol, pengguna dapat mengontrol pemutaran musik, seperti memutar, menjeda, melompati, dan mengatur volume sesuai keinginan
 * **Dukungan Playlist dan URL:**<br />
 Voltz dapat memainkan playlist yang ada dan juga mendukung pemutaran langsung dari segala URL musik, memberikan fleksibilitas dalam pemilihan konten musik.
+
+# Preview
+
+![Preview](https://github.com/bagaspwibisono/Ampere-V1/blob/main/src/img/preview.PNG?raw=true)
